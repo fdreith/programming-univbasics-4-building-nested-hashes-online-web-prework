@@ -24,10 +24,10 @@ def monopoly_with_third_tier
     base_hash = {
 	  :railroads => {
 	    :rent_in_dollars => {
-	      :key => 1
-	      :key => 2
-	      :key => 3
-	      :key => 4
+	      :key => ""
+	      :key => ""
+	      :key => ""
+	      :key => ""
 	    }
 	  }
   }
