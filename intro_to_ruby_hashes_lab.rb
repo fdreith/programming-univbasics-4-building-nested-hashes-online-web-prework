@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 	     {
 	       :one_piece_owned=>25,
 	       :two_pieces_owned=>50,
-	       :three=>"",
+	       :three_pieces_owned=>10,
 	       :four=>""
 	     },
 	     :names=>
